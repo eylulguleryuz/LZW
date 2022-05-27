@@ -1,3 +1,3 @@
 # LZW
 
-Lempel–Ziv–Welch encoding implemented with JavaScript
+Lempel–Ziv–Welch encoding implemented in JavaScript
